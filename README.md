@@ -54,3 +54,24 @@ Uma breve lista das funcionabilidades disponíveis:
 * Listar todos os utilizadores
 * Promover utilizadores a administradores
 * Ativar organizações pendentes de confirmação
+## Servidor
+Uma pequena lista de algumas funcionabilidades de que o servidor dispõe como regulamento automático da utilização da aplicação:
+* Envio de emails de confirmação de conta (com código gerado aleatoriamente)
+* Verificação de tokens e dispositivos, ou seja, um token só é válido num dispositivo
+* Envio de email sempre que é feito um login num dispositivo novo, para o email do utilizador, como medida de segurança
+* Tracking de quantos e quais dispositivos são usados pelos utilizadores
+* Tracking de praticamente todas as ações realizadas nos clientes (mudanças de infirmações de perfil, operações de administração, etc)
+* Algumas outras operações relevantes, mas ainda inutilizadas do lado do cliente.
+## Contas que podem ser utilizadas
+Tipo de utilizador | Nome de utilizador | Palavra-passe
+:-------------: |:-------------:| :-----:
+Utilizador (nível 1) | catarina | naoqueressaber
+Utilizador (nível 2) | goncalosr | 123456
+Trabalhador | purpleviewsgsr@gmail.com | 19895180p
+Organização (confirmada) | 123456789 | 123456789
+Organização (não confirmada) | 987654321 | 1qaz2wsx3edc
+Administrador | wokesolutions | wokesolutions
+
+##### Podem contactar-nos através do email: wokesolutionsignes@gmail.com, ou falando pessoalmente connosco, sobre qualquer dúvida que haja.
+##### Obrigado,
+### WokeSolutions
