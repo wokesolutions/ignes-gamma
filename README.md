@@ -1,5 +1,8 @@
 # Ignes - versão gamma (versão estável de testes)
 
+## Updates
+Infelizmente, tivemos de limpar a base de dados do Datastore em certos kinds, o que torna a aplicação muito mais instável. Esperamos ainda hoje (05-07-18) comseguir mudar a versão estável aqui disponível para uma mais atualizada e consistente!
+
 ## API
 Utilizamos uma folha de testes como API, para fácil comunicação entre servidor:
 https://docs.google.com/spreadsheets/d/1alpbNX6W7s7vOcnEsrskG3ZchfqBb1-nufM_pa-XlLY/edit?usp=sharing
